@@ -1,1 +1,1 @@
-# invitation-to-NAOE-5thLab
+# invitation-to-GitHub-Organization
