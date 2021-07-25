@@ -16,7 +16,7 @@
 
 他にも以下のテンプレも参考にしてください。
 
-- [README-Template](https://github.com/NAOE-5thLab/invitation-to-NAOE-5thLab/README-Template.md) : READMEのテンプレート
+- [README-Template](https://github.com/NAOE-5thLab/invitation-to-NAOE-5thLab/blob/main/README-Template.md) : READMEのテンプレート
 
 
 
