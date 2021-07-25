@@ -4,13 +4,13 @@
 
 
 
-# DEMO
+## Demo
 
 このアプリケーションで何ができるのを説明する。出力の画像や動画を貼り付けると良いかもしれません。
 
 
 
-# Requirement
+## Requirement
 
 このアプリケーションを動かすために必要な環境やライブラリなどを列挙する。
 
@@ -26,7 +26,7 @@
 * Numpy
 * Scipy
 
-# Installation
+## Installation
 
 Requiermentで定義した環境やライブラリのインストール方法を列挙する。
 
@@ -55,7 +55,7 @@ pip install numpy scipy
 
 
 
-# Usage
+## Usage
 
 このアプリケーションの実行方法を説明する。実行時の引数の説明など。
 
@@ -73,13 +73,13 @@ python main.py
 
 
 
-# Note
+## Note
 
 注意点などがあれば書く
 
 
 
-# Author
+## Author
 
 作成者を
 
@@ -88,14 +88,21 @@ python main.py
 
 
 
-# Contributer
+## Contributer
 
-手伝ってもらった人を列挙
+手伝ってもらった人を列挙して感謝しましょう。
 
-<a href="https://github.com/remarkablemark/html-react-parser/graphs/contributors">   <img src="https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false"> </a>
+<p align="center"><br>
+  <b><a><a href="https://github.com/AtsuoMAKI"><img src="https://avatars.githubusercontent.com/u/39612391" width="70px;" style="border-radius: 50%;" /></a></b>
+  <b><a><a href="https://github.com/yoshiki-my"><img src="https://avatars.githubusercontent.com/u/61589279" width="70px;" style="border-radius: 50%;" /></a></b>
+</p>
+
+参考
+
+- [Display GitHub contributors in README](https://remarkablemark.org/blog/2019/10/17/github-contributors-readme/)
 
 
 
-# License
+## License
 [MIT license](https://en.wikipedia.org/wiki/MIT_License)
 
